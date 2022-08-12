@@ -18,3 +18,4 @@ WHERE CategoryID=3
 SELECT CategoryID, SUM (UnitPrice)
 FROM Products
 GROUP BY CategoryID 
+
